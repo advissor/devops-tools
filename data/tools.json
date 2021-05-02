@@ -1,0 +1,11 @@
+[  {
+  "name": "Docker",
+  "description": "Container runtime",
+  "tags": [
+    "containers",
+    "docker"
+  ],
+  "license": "Open-Source",
+  "url": "https://www.docker.com",
+  "img" : "https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"
+}]
